@@ -1,0 +1,25 @@
+# Keep these OUT of the agent's context window — pure noise / cost.
+# Context hygiene = cheaper, sharper agents.
+
+node_modules/
+dist/
+build/
+.next/
+coverage/
+*.lock
+*.log
+*.min.js
+*.map
+
+# generated / vendored
+vendor/
+**/__generated__/
+**/*.pb.go
+
+# large data / binaries
+*.csv
+*.parquet
+*.png
+*.jpg
+*.pdf
+fixtures/large/

@@ -1,7 +1,7 @@
 # agent-config-starter
 
 > **Production-grade `CLAUDE.md` / `AGENTS.md` / skills starter for backend & infra teams.**
-> 바이브코딩 말고 실서비스 — 시니어처럼 AI 코딩 에이전트를 운영하기 위한 설정 스타터킷.
+> 바이브코딩 말고 실서비스 — 현업에서 AI 코딩 에이전트를 제대로 굴리기 위한 설정 스타터킷.
 
 대부분의 "에이전트가 멍청해진다"는 모델 문제가 아니라 **컨텍스트 규율(discipline) 문제**입니다.
 이 스타터킷은 실서비스에서 코딩 에이전트를 굴릴 때 바로 쓰는, 토큰 예산을 의식한 설정 템플릿 모음입니다.
